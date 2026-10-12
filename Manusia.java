@@ -1,6 +1,6 @@
 public class Manusia {
     protected String nama;
-    private int usia;
+    protected int usia;
 
     public Manusia(String nama, int usia) {
         this.nama = nama;
@@ -11,4 +11,5 @@ public class Manusia {
         System.out.println("Nama: " + nama);
         System.out.println("Usia: " + usia);
     }
+    
 }

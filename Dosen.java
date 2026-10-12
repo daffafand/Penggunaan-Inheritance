@@ -13,5 +13,4 @@ public class Dosen extends Manusia {
         System.out.println("NIP: " + nip);
         System.out.println("Fakultas: " + fakultas);
     }
-    
 }
